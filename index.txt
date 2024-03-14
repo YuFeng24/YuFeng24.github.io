@@ -27,7 +27,7 @@
 </html>
 
 </body>
-<img src="man-with-dog.jpeg" width=300px height="250px""Dog Photo">
+<img src="Man-with-dog.jpeg" width=300px height="250px""Dog Photo">
 
 
 
